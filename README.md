@@ -22,7 +22,7 @@ These plugins work with both [Claude CoWork](https://claude.com/cowork) and [Cla
 
 <img src="resources/02-personal-add-marketplace.png" alt="Personal tab, add marketplace" width="600">
 
-**Step 3.** Enter `Rosetree-Solutions/claude-cowork-plugins` and click **Sync**.
+**Step 3.** Enter `Rosetree-Solutions/claude-plugins` and click **Sync**.
 
 <img src="resources/03-add-marketplace-dialog.png" alt="Add marketplace dialog" width="500">
 
